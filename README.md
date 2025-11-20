@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nethmi Hewasinghe</h1>
-<h3 align="center">A passionate Full-Stack Developer and Software Engineering undergraduate from Sri Lanka.</h3>
 <p align="center">
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmi-hewasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi-hewasinghe" /> </p>
