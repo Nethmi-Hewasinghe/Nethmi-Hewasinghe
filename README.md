@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethmi-hewasinghe&show_icons=true&locale=en" alt="nethmi-hewasinghe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmi-hewasinghe&" alt="nethmi-hewasinghe" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
