@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmi-hewasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi-hewasinghe" /> </p>
-<div size='20px'> Hi! My name is Nethmi Hewasinghe. Thank You for taking the time to view my GitHub Profile 🥰: 
+<div size='20px'> Hi! My name is Nethmi Hewasinghe. Thank You for taking the time to view my GitHub Profile 🥰
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
